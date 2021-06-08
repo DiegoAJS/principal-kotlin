@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Principal</string>
+    <string name="name">name</string>
+    <string name="last_name">last name</string>
+    <string name="telephone">telephone</string>
+    <string name="ci">CI</string>
+    <string name="title_list">Tittle List</string>
+    <string name="description">description</string>
+    <string name="editar">Editar</string>
+    <string name="cuenta">Cuenta</string>
+</resources>

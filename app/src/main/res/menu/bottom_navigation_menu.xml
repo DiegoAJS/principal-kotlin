@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_editar"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_edit"
+        android:title="@string/editar"/>
+    <item
+        android:id="@+id/menu_account"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle"
+        android:title="@string/cuenta"/>
+    <item
+        android:id="@+id/menu_call"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_phone"
+        android:title="Llamar"/>
+</menu>
